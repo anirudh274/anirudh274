@@ -9,9 +9,8 @@
 - ⚡ Fun fact: I love Books, Podcasts
 
 ### Connect with me:
-
 [<img align="left" alt="anirudh_tv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="anirudh_tv | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 <br />
 
 --- 
@@ -31,5 +30,6 @@
 
 <br />
 <br />
+
 
 [instagram]: https://www.instagram.com/anirudh_tv/ 
