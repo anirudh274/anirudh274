@@ -2,7 +2,7 @@
   Welcome to Anirudh TV's Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h3 align="center">fanboying Fullstack💻</h3> <h6 align="center">Around 234moons old🌕</h6>
+<h6 align="center">Around 234moons old🌕</h6>
 
 ## I'm a University Student🎓 !!
 
